@@ -2,12 +2,12 @@
 main:
 
   - title: "About Me"
-#    url: https://zeldam1.github.io/#about-me
-    url: http://127.0.0.1:4000/#about-me
+    url: https://zeldam1.github.io/#about-me
+#    url: http://127.0.0.1:4000/#about-me
 
   - title: "Publications"
-#    url: https://zeldam1.github.io/#Publications
-    url: http://127.0.0.1:4000/#Publications
+    url: https://zeldam1.github.io/#Publications
+#    url: http://127.0.0.1:4000/#Publications
 
 #  - title: "Talks"
 #    url: /talks/
