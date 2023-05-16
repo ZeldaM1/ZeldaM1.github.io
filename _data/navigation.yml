@@ -23,7 +23,7 @@ main:
 #    url: /year-archive/
 #
   - title: "CV"
-    url: /cv/
+    url: https://zeldam1.github.io/cv
     
 #  - title: "Guide"
 #    url: /markdown/
