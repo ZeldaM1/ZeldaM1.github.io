@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="907c14e5-daa4-4d0b-86cc-611606292f2a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/archive-layout-with-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archive-layout-with-content/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/collection-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/collection-archive/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cv/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/markdown_generator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown_generator/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/non-menu-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/non-menu-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/page-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page-archive/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/portfolio/portfolio-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/portfolio-1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/portfolio/portfolio-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/portfolio-2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/posts/2012/08/blog-post-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/2012/08/blog-post-1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/posts/2012/08/blog-post-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/2012/08/blog-post-4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/posts/2013/08/blog-post-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/2013/08/blog-post-2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/posts/2014/08/blog-post-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/2014/08/blog-post-3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/publication/2009-10-01-paper-title-number-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publication/2009-10-01-paper-title-number-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/publication/2010-10-01-paper-title-number-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publication/2010-10-01-paper-title-number-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/publication/2015-10-01-paper-title-number-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publication/2015-10-01-paper-title-number-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/talkmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talkmap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/talks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/teaching/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teaching/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/terms/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/year-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/year-archive/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +20,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/zhm/桌面/not-pure-poole&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/zhm/桌面/ZeldaM1.github.io"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
