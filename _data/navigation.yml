@@ -2,10 +2,10 @@
 main:
 
   - title: "About Me"
-    url: http://localhost:4000/#about-me
+    url: https://zeldam1.github.io/#about-me
 
   - title: "Publications"
-    url: http://localhost:4000/#Publications
+    url: https://zeldam1.github.io/#Publications
 
 #  - title: "Talks"
 #    url: /talks/

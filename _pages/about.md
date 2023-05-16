@@ -6,7 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
+
+{% include base_path %}
+
+
 <h2 id="about-me">About Me</h2>
 I am currently a graduate student from Vision Information Discovery And Recovery (VIDAR) group at University of Science and Technology of China (USTC), supervised by Prof. Zhiwei Xiong. I received my bachelor's degree at Ocean University of China (OUC) in 2021.  My research interests focus on image/video enhancement, image/video generation and inverse tone mapping.
 
