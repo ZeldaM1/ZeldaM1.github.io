@@ -1,7 +1,8 @@
 ---
 permalink: /
 author_profile: true
-title: "Profile"
+
+[//]: # (title: "Profile")
 redirect_from: 
   - /about/
   - /about.html
