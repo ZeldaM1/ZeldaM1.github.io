@@ -36,17 +36,22 @@ Holothurian Counting,"](https://ieeexplore.ieee.org/document/9261353) in IEEE Ac
 Semantic Segmentation,"](https://ieeexplore.ieee.org/document/9389008) Global Oceans 2020: Singapore – U.S. Gulf Coast, 2020, pp. 1‑7.
 
 
-Pending Patents
-======
----
-* Holothurian Measurement based on Parallel Laser Beams and Semantic Segmentation, CN112132884A 
- 
+[//]: # (Pending Patents)
+
+[//]: # (======)
+
+[//]: # (---)
+
+[//]: # (* Holothurian Measurement based on Parallel Laser Beams and Semantic Segmentation, CN112132884A )
+
+[//]: # ( )
 
 Awards
 ======
 ---
 * ChinaMM 2019 Underwater Image Enhancement Challenge (Winner) 
-* National Artificial Intelligence Challenge on 4K UHD HDR (Ranked top 15%)
+
+[//]: # (* National Artificial Intelligence Challenge on 4K UHD HDR &#40;Ranked top 15%&#41;)
   
 
 Skills
