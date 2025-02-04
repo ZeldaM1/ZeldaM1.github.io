@@ -1,5 +1,5 @@
 # https://zeldam1.github.io
 ```commandline
-jekyll serve -l -H localhost
+bundle exec jekyll serve -l -H localhost
 localhost:4000
 ```

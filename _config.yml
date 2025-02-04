@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huimin Zeng @ USTC"
+title                    : "Huimin Zeng @ NEU"
 title_separator          : "-"
-name                     : &name "Huimin Zenge"
+name                     : &name "Huimin Zeng"
 description              : &description "personal description"
 url                      : https://zeldam1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "zenghuimin@mail.ustc.edu.cn"
+    email                : "zeng.huim@northeastern.edu"
   generatedFields:
     date:
       type               : "date"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huimin Zeng"
+  name             : "Huimin Zeng(曾慧敏)"
   avatar           : "IMG_6901.jpg"
-  bio              : "Graduate student @ VIDAR <br/>  Dept. EEIS,USTC"
-  location         : "Hefei, China"
+  bio              : "Ph.D. Student @ SmileLab <br/>  Dept. ECE, NEU"
+  location         : "Boston, MA"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "https://github.com/ZeldaM1"
-  email            : "zenghuimin@mail.ustc.edu.cn"
+  email            : "zeng.huim@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
